@@ -6,6 +6,7 @@ For this project I developed a decision tree model to predict and understand the
 Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. The purpose of this project is to generate a decision tree to predict if an employee will leave the company anddetermine the most important factors that determine employee satisfaction.
 
 ## Data Project Questions and Considerations
+### PACE: Planning Stage
 ● What am I trying to solve?
 
 The purpose of this project is to predict whether an employee is likely to leave the company.
